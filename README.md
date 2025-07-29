@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Gavion Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvnzhou&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Gavion Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvnzhou&theme=tokyonight&show_icons=true)](https://github.com/gvnzhou/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvnzhou&layout=compact&theme=tokyonight)](https://github.com/gvnzhou/github-readme-stats)
+-->
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gvnzhou&theme=tokyonight&show_icons=true" alt="Gavion Zhou's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvnzhou&layout=compact&theme=tokyonight" alt="Top Langs" /> |
+| ------------- | ------------- |
