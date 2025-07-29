@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About My Github
+[![Gavion Zhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvnzhou&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="left">
-  <img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvnzhou&layout=compact&langs_count=8" align="center" />
-  <img height='180' src="https://github-readme-stats.vercel.app/api?username=gvnzhou&show_icons=true" align="center" />
-</div> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvnzhou&layout=compact&theme=tokyonight)](https://github.com/gvnzhou/github-readme-stats)
